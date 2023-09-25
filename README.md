@@ -12,11 +12,7 @@
 
 ### Why is it?
 
-  The repository contains code for my high school graduation project and the SOČ competition (High school project competition in the Czech Republic).
-  
-### Did i get my diploma?
-
-  Yeah! :tada:
+  The repository contains code for my high school graduation project and the SOČ competition (High school project competition).
   
 
 ### Co je to?
@@ -32,7 +28,3 @@
 ### Proč je to?
 
   Repozitář obsahuje kód k maturitnímu projektu a k soutěži SOČ.
-  
-### Dostal jsem maturitu?
-
-  Ano! :tada:
